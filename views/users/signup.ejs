@@ -1,0 +1,25 @@
+<% layout("/layouts/boilerplate") %>
+
+<div class="row mt-3">
+    <div class="col-6 offset-3">
+    <h1>SignUp on Tripify</h1><br>
+    <form method="POST" action="/signup" novalidate class="needs-validation">
+    <div class="mb-3">
+        <label for="username" class="form-label">Username</label>
+        <input name='username' placeholder='enter username' id="username" class="form-control" type="text" required>
+        <div class="valid-feedback">Username looks good!!</div>
+    </div>
+    <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input name='email' placeholder='enter email' id="email" class="form-control" type="email" required>
+    </div>
+    <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input name='password' placeholder='enter password' id="password" class="form-control" type="password" required>
+    </div>
+    <button type="submit" class="btn btn-success mt-3">Sign Up</button><br><br>
+    </form>
+    </div>
+</div>
+    
+
