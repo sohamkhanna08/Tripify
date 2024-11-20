@@ -1,4 +1,4 @@
-# 🌍 Tripify
+# 🌍 Tripify :Discover, Explore, Plan a Trip!
 
 A Full-Stack Web Application inspired by Airbnb, built to simplify travel planning and enhance user experience with powerful features and a modern tech stack.
 
