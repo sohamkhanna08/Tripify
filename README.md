@@ -58,10 +58,11 @@ A Full-Stack Web Application inspired by Airbnb, built to simplify travel planni
 Building Tripify was an incredible learning journey! Here are some key takeaways:
 
 - **Full-Stack Development**: Explored the MERN stack, diving into both front-end and back-end development.
+- **MVC Architecture**: Structured the project using the **Model-View-Controller (MVC)** architecture.
+- **REST APIs**: Developed RESTful APIs for managing property listings, user accounts, and authentication.
 - **Image Upload and Storage**: Implemented image upload functionality using **Multer** and **Cloudinary**.
 - **User Authentication**: Leveraged **Passport.js** for secure user authentication.
 - **Error Handling**: Ensured a smooth user experience with effective error handling.
 - **Bootstrap Styling**: Used **Bootstrap** to create a clean and responsive design.
-- **MVC Architecture**: Structured the project using the **Model-View-Controller (MVC)** architecture.
 - **MapTiler Integration**: Incorporated dynamic and interactive maps using **MapTiler** for property locations.
 - **Password Security**: Implemented advanced hashing and salting for secure user password protection.
