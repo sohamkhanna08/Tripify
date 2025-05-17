@@ -66,3 +66,8 @@ Building Tripify was an incredible learning journey! Here are some key takeaways
 - **Bootstrap Styling**: Used **Bootstrap** to create a clean and responsive design.
 - **MapTiler Integration**: Incorporated dynamic and interactive maps using **MapTiler** for property locations.
 - **Password Security**: Implemented advanced hashing and salting for secure user password protection.
+
+  ## Web Application Image
+![Tripify](https://github.com/user-attachments/assets/9a66d1c1-05d0-49fe-8774-ccfea8082392)
+
+
